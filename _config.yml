@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.012109057598622353
+  lightness: 0.5463313022412862
+  rhythmicContrast: 0.45881269997691676
+  saturation: 0.23170695162388466
+cta: {}
+layout_spectrum: 0
+name: azolt
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.186107
